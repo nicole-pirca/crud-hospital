@@ -78,9 +78,9 @@ public class UIMenu {
         //usrType = 2 Paciente
 
         ArrayList<Doctor> doctors = new ArrayList<>();
-        doctors.add(new Doctor("Nicole", "nicole@email.com"));
-        doctors.add(new Doctor("Thais", "thais@email.com"));
-        doctors.add(new Doctor("Rocio", "rocio@email.com"));
+        doctors.add(new Doctor("Nicole Pirca", "nicole@email.com"));
+        doctors.add(new Doctor("Thais Escobar", "thais@email.com"));
+        doctors.add(new Doctor("Rocio Perez", "rocio@email.com"));
 
         ArrayList<Patient> patients = new ArrayList<>();
         patients.add(new Patient("Esperanza Escobar", "esperanza@email.com"));
